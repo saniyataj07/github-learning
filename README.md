@@ -19,3 +19,11 @@
 
 ## Day 9 🚀
 Today I learned about branches and pull requests.
+
+## Day 9 🚀
+Today I learned about branches and pull requests.
+
+## Day 10 📜
+Today I learned what a LICENSE is and why repositories use one.
+
+Day 10: Learned about LICENSE
