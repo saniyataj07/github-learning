@@ -16,3 +16,6 @@
 - Python (Learning)
 
 ### 📫 Thanks for visiting my profile!
+
+## Day 9 🚀
+Today I learned about branches and pull requests.
