@@ -1,5 +1,10 @@
-## 🚀 Projects
+# github-learning
 
+![GitHub last commit](https://img.shields.io/github/last-commit/saniyataj07/github-learning)
+![GitHub repo size](https://img.shields.io/github/repo-size/saniyataj07/github-learning)
+![GitHub stars](https://img.shields.io/github/stars/saniyataj07/github-learning?style=social)
+
+##projects
 Coming soon...
 - Git & GitHub Learning
 - Python Projects
