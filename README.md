@@ -30,3 +30,13 @@ Today I learned about branches and pull requests.
 Today I learned what a LICENSE is and why repositories use one. 
 
 ## Day 13 - Learning Pull Requests 🚀
+## 📚 Topics I Have Learned
+
+- Git Basics
+- Branches
+- Commits
+- Pull Requests
+- Git Tags
+- GitHub Releases
+- Markdown
+- LICENSE l
