@@ -4,7 +4,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/saniyataj07/github-learning)
 ![GitHub stars](https://img.shields.io/github/stars/saniyataj07/github-learning?style=social)
 
-##projects
+## 🚀 Projects
+
 Coming soon...
 - Git & GitHub Learning
 - Python Projects
