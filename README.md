@@ -3,7 +3,8 @@
 Coming soon...
 - Git & GitHub Learning
 - Python Projects
-- More projects will be added here!# github-learning
+- More projects will be added here!
+# github-learning
 # Hi, I'm Saniya Taj 👋
 
 ## 🌱 Currently Learning
