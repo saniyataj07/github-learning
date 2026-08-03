@@ -46,3 +46,9 @@ Today I learned what a LICENSE is and why repositories use one.
 - GitHub Releases
 - Markdown
 - LICENSE l
+
+## 📅 Learning Progress
+
+- ✅ Day 1–24 Git & GitHub Challenge
+- 🔄 Learning every day
+- 🎯 Goal: Become a Software Engineer
